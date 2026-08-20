@@ -1,0 +1,73 @@
+VANGUARD PLUGIN COLLECTION — PROPRIETARY LICENSE AGREEMENT
+Copyright (c) 2026 67yazz ("Licensor"). All rights reserved.
+
+1. SOFTWARE
+   This Agreement governs the software and all accompanying files distributed
+   in this repository (the "Software"), including the following Minecraft
+   plugins, in source, compiled (JAR), or any other form:
+     - Lunge3Cooldown
+     - PearlMaceRestrictions
+     - VanguardChat
+     - VanguardHomes
+     - VanguardTeams
+     - VanguardChunks
+   together with all associated configuration files, resources, and
+   documentation.
+
+2. OWNERSHIP
+   The Software is the exclusive property of the Licensor and is protected by
+   copyright law and other applicable laws and international treaties. The
+   Licensor retains all rights, title, and interest in and to the Software,
+   including all copies and derivative works thereof.
+
+3. NO RIGHTS GRANTED BY DOWNLOAD
+   Downloading, accessing, possessing, or receiving a copy of the Software
+   does NOT grant any license or right to use, copy, distribute, publish,
+   sell, sublicense, modify, adapt, translate, decompile, reverse-engineer,
+   or create derivative works of the Software. Any such activity requires
+   the prior express written permission of the Licensor.
+
+4. PERMITTED USE
+   The Software may be used only by persons or Minecraft servers that have
+   received express written authorization from the Licensor ("Authorized
+   Users"). Authorized Users may use the Software only in unmodified form,
+   only on the server(s) covered by their authorization, and may not share,
+   redistribute, publish, upload, sell, or otherwise make the Software
+   available to any third party.
+
+5. TERMINATION AND REVOCATION
+   Any authorization granted under this Agreement may be revoked by the
+   Licensor at any time, for any reason or no reason, at the Licensor's sole
+   discretion. Upon revocation, the former Authorized User must immediately
+   cease all use of the Software and permanently delete or destroy all
+   copies, full or partial, in their possession or control, including copies
+   installed on any server or device.
+
+6. COPYRIGHT NOTICES
+   No copyright notice, attribution, or other legal notice contained in the
+   Software (including within plugin.yml, LICENSE.txt, or the compiled
+   classes) may be removed, obscured, altered, or modified.
+
+7. UNAUTHORIZED USE AND INFRINGEMENT
+   Any use, copying, distribution, modification, or other exploitation of
+   the Software that is not expressly authorized in writing by the Licensor
+   constitutes copyright infringement. The Licensor reserves the right to
+   pursue any and all remedies available at law or in equity, including
+   injunctive relief, monetary damages, and recovery of costs and attorneys'
+   fees where permitted by law, and to issue takedown notices to hosting
+   providers, repositories, and online platforms, including DMCA takedown
+   notices under 17 U.S.C. Section 512.
+
+8. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+9. CONTACT AND PERMISSION REQUESTS
+   67yazz
+   - Discord: 7xsgotme
+   - Email: theoneandonlydirector1@gmail.com
+   - GitHub: https://github.com/denightlocator
