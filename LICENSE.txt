@@ -5,12 +5,10 @@ Copyright (c) 2026 67yazz ("Licensor"). All rights reserved.
    This Agreement governs the software and all accompanying files distributed
    in this repository (the "Software"), including the following Minecraft
    plugins, in source, compiled (JAR), or any other form:
-     - Lunge3Cooldown
-     - PearlMaceRestrictions
      - VanguardChat
      - VanguardHomes
      - VanguardTeams
-     - VanguardChunks
+     - ChunkForge
    together with all associated configuration files, resources, and
    documentation.
 
